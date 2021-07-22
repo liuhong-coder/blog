@@ -1,0 +1,5 @@
+2021-07-05 20:29:06.075  INFO 13516 --- [main] com.liu.BlogApplication                  : Starting BlogApplication using Java 1.8.0_40 on DESKTOP-E2HIS2P with PID 13516 (F:\IdeaProjects\springboot\blog\target\classes started by liuhong in F:\IdeaProjects\springboot\blog)
+2021-07-05 20:29:06.077  INFO 13516 --- [main] com.liu.BlogApplication                  : The following profiles are active: pro
+2021-07-05 20:29:07.355  WARN 13516 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-07-05 20:29:07.493  WARN 13516 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2021-07-05 20:29:07.563  INFO 13516 --- [main] com.liu.BlogApplication                  : Started BlogApplication in 1.76 seconds (JVM running for 2.201)
